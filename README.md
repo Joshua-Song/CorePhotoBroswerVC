@@ -1,4 +1,14 @@
 
+## 从Code4App 过来的朋友，请查看并点击收藏[信息公告牌](https://github.com/CharlinFeng/Show)
+
+
+<br />
+
+####  照片浏览器已经大更新（请关注[信息公告牌](https://github.com/CharlinFeng/Show)）
+#### 敬呈：Swift完美版，大量听取OC版用户心声，呕心沥血打造更强大更好用更适合你的照片浏览器！！！
+##### [https://github.com/nsdictionary/PhotoBrowser/](https://github.com/nsdictionary/PhotoBrowser/) 
+
+<br /><br /><br />
 
     Charlin出框架的目标：简单、易用、实用、高度封装、绝对解耦！
 
@@ -6,29 +16,25 @@
 
 <br />
 
-## 秒杀MJPhotobswer, CorePhotoBroswerVC 2.0版本
-
+CorePhotoBroswerVC 2.0版本
+===============
 快速集成高性能照片浏览器，支持本地及网络相册！<br />
 
 
 <br />
 
-#### 框架说明 DESC<br />
+框架说明 DESC
+===============
 >.本框架是全新原创。本版本是2.0版本，此框架费时大概30天左右了，还在不断完善中，而且还有很多小细节需要处理，如果你在使用中发现bug，请加群@我，我会尽快修改。<br /><br />
 >.如果你在示例程序中，加载网络图片，你会发现图片显示有点乱，因为缩略图我是使用的是本地图片，所以正式使用的时候是不会有问题的。<br /><br />
 >.本框架包含了很多本地图片以及gif示例演示图片，所以包有点大，大概50MB左右，真正框架很小。请放心使用。<br /><br />
 >.再次申明，本版本还有很多地方需要完善，后续会继续更新！谢谢！
 
+<br /><br />
 
-<br /><br /><br />
-#### 友情提示 MENTION<br />
-Charlin（成都）更多原创项目（涵盖了方方面面，看看还有没有你需要的）：<br />
-首页：https://github.com/nsdictionary<br />
-列表：https://github.com/nsdictionary?tab=repositories<br />
-成都iOS开发群：163865401（Charlin创建与维护，欢迎加群交流！）<br />
-<br /><br /><br />
 
-#### 2.0版本特性 FEATURE<br />
+2.0版本特性 FEATURE
+===============
 全新2.0版本，主要添加了众多切换方式，以及多种切换效果，供大家任意选取，请看Charlin给你展示：<br />
 <br /><br />
 
@@ -55,7 +61,9 @@ zoom方式下，有非常多的细节，这里截图说明一二<br />
 ![image](./CorePhotoBroswerVC/show/outScreen.gif)<br /><br />
 
 
-#### 使用示例 EXAMPLE<br />
+使用示例 EXAMPLE
+===============
+
     /*
      *  本地图片展示
      */
@@ -141,7 +149,8 @@ zoom方式下，有非常多的细节，这里截图说明一二<br />
 
 <br /><br /><br />
 
-### 以下是1.0版本说明
+以下是1.0版本说明
+===============
 
 #### 写在之前 FIRST<br />
 官人要是觉得本框架还不错，请支持我，支持码农的无偿付出！不用给钱，右上角star或者fork一下就可以，谢谢你的支持！<br />
@@ -184,8 +193,8 @@ zoom方式下，有非常多的细节，这里截图说明一二<br />
 
 <br /><br />
 
-#### Charlin想说 SAY<br />
-此版本最开始是使用ColletionView来做的，后面在collectionView的cell里面增加scrollView会出现ios7下乱跳的bug，无法解决，后来只有换成scrollView。这个框架其他就是细节太多了，如果有兴趣可以看看源码，会发现里面有太多稀奇古怪的bug修复，因为里面太多控件太多手势杂糅在一起。可能还是有很多bug，可以加我群成都iOS开发群_Charlin：163865401讨论。<br /><br />
+#### 心声 SAY<br />
+此版本最开始是使用ColletionView来做的，后面在collectionView的cell里面增加scrollView会出现ios7下乱跳的bug，无法解决，后来只有换成scrollView。这个框架其他就是细节太多了，如果有兴趣可以看看源码，会发现里面有太多稀奇古怪的bug修复，因为里面太多控件太多手势杂糅在一起。<br /><br />
 
 <br />
 #### 框架依赖 APPEND（本框架默认集成以下框架，最新到我这里查看https://github.com/nsdictionary?tab=repositories）<br />
@@ -284,24 +293,5 @@ zoom方式下，有非常多的细节，这里截图说明一二<br />
 
   
 
-<br /><br /><br />
 
------
-    CorePhotoBroswerVC 快速集成高性能照片浏览器，支持本地及网络相册！！
------
-
-<br /><br /><br />
-
-
-#### 版权说明 RIGHTS <br />
-作品说明：本框架由iOS开发攻城狮Charlin制作。<br />
-作品时间： 2015.05.10 10:07<br /><br />
-
-#### 关于Chariln INTRODUCE <br />
-作者简介：Charlin-四川成都华西都市报旗下华西都市网络有限公司技术部iOS工程师！<br /><br /><br />
-
-
-#### 联系方式 CONTACT <br />
-Q    Q：1761904945（请注明缘由）<br />
-Mail：1761904945@qq.com<br />
-
+<br /><br />
